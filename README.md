@@ -1,16 +1,7 @@
 # ASCII Art
 
-[![pipeline status](https://gitlab.fit.cvut.cz/BI-OOP/B241/asciiart/badges/master/pipeline.svg)](https://gitlab.fit.cvut.cz/BI-OOP/B241/asciiart)
-
-The idea of this project is to load images, translate them into ASCII ART images, optionally apply filters, and save them. (https://courses.fit.cvut.cz/BI-OOP/projects/ASCII-art.html)
-
-## How to do it
-
-1. **Make your repository private**
-2. **Read [the instructions](https://courses.fit.cvut.cz/BI-OOP/projects/ASCII-art.html)**
-3. Play [lofi hip hop radio](https://www.youtube.com/watch?v=jfKfPfyJRdk)
-4. [???](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
-5. Profit
+Scala application for converting images to ASCII art and applying filters on them.
+The project is made for practice of OOP principles and design patterns including high cohesion and low coupling.
 
 ## About the project
 - the project aligns with high cohesion and low coupling principles
